@@ -1,0 +1,4 @@
+Q: Write code for singleton or How do you ensure in a single player game LOTR,there will always be one Ring?
+Answer: To have Singleton class,means only one object is exists for that class at any given time. Use,elegant solution for global variable.
+
+Here, implementation is in python. The basic idea is to have inner class :) .
